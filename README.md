@@ -71,7 +71,7 @@ Bu proje, **ASP.NET Core 6.0** ile geliştirilmiş olup **mikroservis tabanlı**
 Bu proje, **ölçeklenebilir, güvenli ve yönetilebilir bir e-ticaret platformu** oluşturmak için geliştirilmiş olup **mikroservis mimarisi ve modern yazılım teknikleri** kullanılarak inşa edilmiştir.
 
 
-![Ekran görüntüsü 2025-02-16 152144](https://github.com/user-attachments/assets/ce3964bb-db4c-49e7-89db-934a3b0b63ea)
+
 ![Ekran görüntüsü 2025-02-16 152247](https://github.com/user-attachments/assets/0a377fa1-7fb7-4855-a1d7-b45be1a86d4e)
 ![Ekran görüntüsü 2025-02-16 152305](https://github.com/user-attachments/assets/a4797a98-e24f-4f7e-83d9-1c8107181476)
 ![Ekran görüntüsü 2025-02-16 152335](https://github.com/user-attachments/assets/6aa33b4b-4a26-4228-8b4d-5e6c5a93ceb1)
