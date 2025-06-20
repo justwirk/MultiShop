@@ -1,0 +1,30 @@
+﻿@using MultiShop.DtoLayer.CommentDtos.UserCommentDtos
+@model List<ResultCommentDto>
+<div class="tab-pane fade" id="tab-pane-3">
+    <div class="row">
+      
+
+        <div class="col-md-6">
+            @foreach (var item in Model)
+            {
+
+            <h4 class="mb-4"></h4>
+            <div class="media mb-4">
+                <img src="@item.ImageUrl" alt="Image" class="img-fluid mr-3 mt-1" style="width: 45px;">
+                <div class="media-body">
+                    <h6>@item.NameSurname<small> - <i>@item.CreatedDate.ToString("dd/MM/yyyy")</i></small></h6>
+                        <div class="text-primary mb-2">
+                            @for (int i = 0; i < item.Rating; i++)
+                            {
+                                <i class="fas fa-star"></i>
+                            }
+                        </div>
+                    <p>@item.CommentDetail</p>
+                </div>
+            </div>
+            }
+        </div>
+       
+        @await Html.PartialAsync("~/Views/ProductList/AddComment.cshtml", new { id = ViewBag.x })
+    </div>
+</div>
