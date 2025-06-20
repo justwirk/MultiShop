@@ -81,5 +81,5 @@ Bu proje, **ölçeklenebilir, güvenli ve yönetilebilir bir e-ticaret platformu
 ![Ekran görüntüsü 2025-02-16 152523](https://github.com/user-attachments/assets/7e753d68-b0d3-47ff-9b95-d3dd67e3f287)
 ![Ekran görüntüsü 2025-02-16 152627](https://github.com/user-attachments/assets/106bfa0c-a872-4a03-8eb9-1472b39787c4)
 ![Ekran görüntüsü 2025-02-16 153105](https://github.com/user-attachments/assets/7159d0e7-0e35-4e87-a550-ad88c757722e)
-![Ekran görüntüsü 2025-02-16 153414](https://github.com/user-attachments/assets/bbec1237-9307-4b97-a02f-b839554e68f0)
+
 ![Ekran görüntüsü 2025-02-16 153448](https://github.com/user-attachments/assets/52c69fd0-f064-4aac-bba6-60f4d9d1cbde)
